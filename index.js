@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["The System Uses Me...","... and I Use the System"];
+const statusMessages = ["The System uses me...","...and I use the System"];
 
 
 let currentIndex = 0;
